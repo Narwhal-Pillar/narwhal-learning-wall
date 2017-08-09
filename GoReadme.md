@@ -1,4 +1,4 @@
-# Google API Documentation
+# Go Readme
 
 To learn more about the `Go` Google API Wrapper, visit: https://github.com/googlemaps/google-maps-services-go
 
