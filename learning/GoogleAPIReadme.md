@@ -1,4 +1,4 @@
-# Over_React Readme
+# Google API Learning
 
 To learn more about the `Go` Google API Wrapper, visit: https://github.com/googlemaps/google-maps-services-go
 
