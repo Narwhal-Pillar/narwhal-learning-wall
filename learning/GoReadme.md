@@ -1,10 +1,19 @@
 # Go Learning
 
-To learn more about the `Go` Google API Wrapper, visit: https://github.com/googlemaps/google-maps-services-go
+### Installing Go
+Team Narwhal followd the directions from the official [Go Documentation](https://golang.org/doc/)
 
-## Goal
-The goal of Team Narwhal was to learn how to utilize the Google maps API in a `Go` application.
+To set up the path to your `Go workspace` cd to the user directory and oppen `.bash_profile` by typing: `nano .bash_profile` and add the exports bellow:
 
-### References
-[**Working Prototype**](https://github.com/Narwhal-Pillar/hamsterApi/blob/google-api/app/features/places/place_controller.go) Prototype utilizing the Google Maps API in Go.
+```
+#setting go path
+export GOROOT="/usr/local/go"
+export GOPATH="/Users/userName/go"
+export PATH=$GOPATH/bin:$PATH
+```
+
+### Google Maps API Learning
+
+We wanted to consume the API with  the Go language as a Kata, check out what we learned and how we used it. [Google API Learning](./learning/GoogleAPIReadme.md)
+
 

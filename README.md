@@ -1,9 +1,5 @@
 # Narwhal Wall of Learning
 
-To learn more about the `Go` Google API Wrapper, visit: https://github.com/googlemaps/google-maps-services-go
-## Google API Learning
-Check out what we learned with the Google API and how we used it. [Google API Learning](./learning/GoogleAPIReadme.md)
-
 ## Goal
 The goal of Team Narwhal was to learn how to utilize the Google maps API in a `Go` application.
 
