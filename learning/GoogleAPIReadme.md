@@ -6,10 +6,13 @@ The [Google Maps Services Client Library] provides a quick and easy way to conne
 
 As part of learning, we utilized the free version of the Google Maps API, so the number of requests we could send out to the API were limited to 10 a second. Per the [Google Maps Services Client Library], this is perfect for the free version.
 
-Returning the Maps response in a JSON format:
+#### Returning the Maps response in a JSON format:
 ```go
 json.NewEncoder(writer).Encode(resp)
 ```
+
+### Gotchas
+... Coming soon ;-)
 
 ### References
 Please refer to our [Working Prototype] Prototype utilizing the Google Maps API in Go. 
