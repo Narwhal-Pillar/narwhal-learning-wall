@@ -12,3 +12,23 @@ Check ou t what we learned with the Over_React framework and how we used it. [Ov
 ### References
 [**Working Prototype**](https://github.com/Narwhal-Pillar/hamsterApi/blob/google-api/app/features/places/place_controller.go) Prototype utilizing the Google Maps API in Go.
 
+### Folder Architecture
+We have subscribed to the idea of `package by feature.` Essentially, files that change together, stay together. See example below:
+
+```
+guild-members/
+    app/
+        guildMembers/
+            guild_member_controller.go
+            guild_member_controller_test.go
+            guild_member_service.go
+        shared/
+            members/
+                members_model.go
+                members_filter.go
+                members_filter_test.go
+        main.go
+        main_test.go
+    .gitignore
+    README.md
+```

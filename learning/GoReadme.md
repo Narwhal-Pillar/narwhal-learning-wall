@@ -16,4 +16,5 @@ export PATH=$GOPATH/bin:$PATH
 
 We wanted to consume the API with  the Go language as a Kata, check out what we learned and how we used it. [Google API Learning](./learning/GoogleAPIReadme.md)
 
+[**Web API Example**](https://github.com/ChaseHardin/guild-members) Prototype Go Web API.
 
