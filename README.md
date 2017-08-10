@@ -36,4 +36,4 @@ guild-members/
 [Go Learning]: ./learning/GoReadme.md
 [Over React Learning]: ./learning/OverReactReadme.md
 
-[HamsterAPI Google Maps API Prototype]: ttps://github.com/Narwhal-Pillar/hamsterApi/blob/google-api/app/features/places/place_controller.go
+[HamsterAPI Google Maps API Prototype]: https://github.com/Narwhal-Pillar/hamsterApi/blob/google-api/app/features/places/place_controller.go
